@@ -1,5 +1,5 @@
 const connection = require('../config/connection');
-const { user, thought,reaction } = require('../models');
+const { User, Thought,Reaction } = require('../models');
 connection.on('error', (err) => err);
 
 connection.once('open', async () => {
