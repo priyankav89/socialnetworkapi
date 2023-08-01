@@ -56,7 +56,7 @@ https://github.com/priyankav89/socialnetworkapi/assets/127457597/440707bb-298d-4
 2. npm run seed to seed data into the database.
 3. npm start to start the application.
 4. Insomnia is used to test the api routes.
-5. MongoDB Compass is also used to test the app.
+5. MongoDB Compass is also used .
 
 ## CREDITS
 
