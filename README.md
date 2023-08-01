@@ -46,6 +46,10 @@ When the user test API POST and DELETE routes in Insomnia,Then the user is able 
 ## WALKTHROUGH VIDEO
 
 
+https://github.com/priyankav89/socialnetworkapi/assets/127457597/440707bb-298d-49a4-9b10-6ae317ad9d3d
+
+
+
 ## TESTING
 
 1. npm install or npm i to install node package and package.json .
